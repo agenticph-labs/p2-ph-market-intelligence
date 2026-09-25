@@ -1,0 +1,82 @@
+[
+  {
+    "chain": "Starbucks",
+    "type": "International Premium",
+    "stores_2025": 520,
+    "avg_cup_price_php": 195,
+    "price_tier": "Premium",
+    "app_ordering": true,
+    "franchise_available": false,
+    "key_notes": "Largest premium chain; licensed model; loyalty program; premium positioning"
+  },
+  {
+    "chain": "Pickup Coffee",
+    "type": "Local Value",
+    "stores_2025": 500,
+    "avg_cup_price_php": 70,
+    "price_tier": "Budget",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Fastest-growing PH chain; 20 stores/mo target; P1.7-2M franchise; grab-and-go model"
+  },
+  {
+    "chain": "Zus Coffee",
+    "type": "Regional Value",
+    "stores_2025": 120,
+    "avg_cup_price_php": 85,
+    "price_tier": "Affordable",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Malaysia #1 chain (743 stores); ~70% online orders; tech-driven; ube latte"
+  },
+  {
+    "chain": "Bo's Coffee",
+    "type": "Local Mid-Range",
+    "stores_2025": 100,
+    "avg_cup_price_php": 130,
+    "price_tier": "Mid-Range",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Oldest PH homegrown chain; sources PH-grown beans; international in Qatar/UAE"
+  },
+  {
+    "chain": "Coffee Bean & Tea Leaf",
+    "type": "International Mid-Range",
+    "stores_2025": 220,
+    "avg_cup_price_php": 165,
+    "price_tier": "Mid-Range",
+    "app_ordering": true,
+    "franchise_available": false,
+    "key_notes": "Acquired by JFC for $350M in 2019; 1,232 stores globally; strong tea lineup"
+  },
+  {
+    "chain": "Tim Hortons",
+    "type": "International Mid-Range",
+    "stores_2025": 30,
+    "avg_cup_price_php": 120,
+    "price_tier": "Mid-Range",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Late entry to PH; coffee + donuts; Canadian heritage brand"
+  },
+  {
+    "chain": "J.CO Donuts & Coffee",
+    "type": "International Mid-Range",
+    "stores_2025": 60,
+    "avg_cup_price_php": 140,
+    "price_tier": "Mid-Range",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Premium donuts + specialty coffee; known for Jcoccino; strong brand loyalty"
+  },
+  {
+    "chain": "Figaro Coffee",
+    "type": "Local Mid-Range",
+    "stores_2025": 35,
+    "avg_cup_price_php": 140,
+    "price_tier": "Mid-Range",
+    "app_ordering": true,
+    "franchise_available": true,
+    "key_notes": "Oldest PH coffee chain; publicly listed; restaurant-style dining"
+  }
+]

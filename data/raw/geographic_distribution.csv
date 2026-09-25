@@ -1,0 +1,27 @@
+region,city_province,starbucks,pickup,zus,bos,cb_tl,tim_hortons,jco,independents_est,population_m,urbanization_pct
+NCR,Metro Manila,180,150,50,15,100,15,20,14.9,100
+NCR,Makati,40,30,12,3,25,3,5,0.6,100
+NCR,Quezon City,55,40,15,4,28,4,6,3.0,100
+NCR,Taguig (BGC),30,20,8,2,18,2,3,1.0,100
+NCR,Pasig / Mandaluyong / San Juan,25,25,8,3,14,3,3,2.5,100
+NCR,Parañaque / Las Piñas / Muntinlupa,20,25,5,2,10,2,2,3.0,100
+NCR,Manila,10,10,2,1,5,1,1,1.8,100
+CALABARZON,Cavite,35,30,10,2,18,4,3,4.3,62
+CALABARZON,Laguna,25,25,8,2,12,2,2,3.4,58
+CALABARZON,Batangas,20,15,4,3,10,1,2,2.9,55
+CALABARZON,Rizal,15,20,5,1,8,1,1,3.2,60
+CALABARZON,Quezon,5,5,1,1,2,0,0,2.0,45
+Central Luzon,Pampanga,20,20,5,2,12,2,3,2.5,58
+Central Luzon,Bulacan,15,20,4,1,8,1,1,3.7,52
+Central Luzon,Tarlac / Nueva Ecija / Zambales,10,15,2,1,5,1,1,4.1,45
+Visayas,Cebu (Metro Cebu),25,30,8,30,15,2,5,3.3,68
+Visayas,Iloilo,8,10,3,5,5,1,2,2.1,50
+Visayas,Bacolod,6,8,2,3,4,1,1,0.6,52
+Visayas,Tacloban / Leyte / Samar,3,5,1,2,2,0,0,4.5,35
+Mindanao,Davao (Metro Davao),15,15,6,8,10,1,3,1.8,60
+Mindanao,Cagayan de Oro,6,10,3,5,5,1,2,0.8,52
+Mindanao,General Santos / SOCCSKSARGEN,4,8,1,3,3,0,1,4.5,40
+Mindanao,Zamboanga / Butuan / Cotabato,3,5,1,3,2,0,0,3.5,38
+North Luzon,Baguio / Benguet / CAR,5,10,2,2,4,1,1,1.8,50
+North Luzon,Ilocos / Cagayan Valley,4,8,1,1,3,0,0,4.2,38
+Luzon Others,Bicol / Palawan / MIMAROPA,6,10,2,2,4,1,1,5.2,35

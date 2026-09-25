@@ -1,0 +1,62 @@
+chain,drink,size,price_php
+Starbucks,Caffè Americano,Tall,165
+Starbucks,Caffè Americano,Grande,182
+Starbucks,Caffè Latte,Tall,176
+Starbucks,Caffè Latte,Grande,193
+Starbucks,Caramel Macchiato,Tall,205
+Starbucks,Caramel Macchiato,Grande,220
+Starbucks,Java Chip Frappuccino,Tall,209
+Starbucks,Brewed Coffee,Tall,127
+Starbucks,Brewed Coffee,Grande,143
+Starbucks,Cold Brew,Tall,193
+Starbucks,Matcha Latte,Tall,195
+Starbucks,Hot Chocolate,Tall,187
+Pickup Coffee,Americano,Regular,50
+Pickup Coffee,Latte,Regular,70
+Pickup Coffee,Dark Mocha,Regular,75
+Pickup Coffee,Caramel Latte,Regular,85
+Pickup Coffee,White Mocha,Regular,85
+Pickup Coffee,Cappuccino,Regular,70
+Pickup Coffee,Matcha Latte,Regular,75
+Pickup Coffee,Ube Latte,Regular,70
+Pickup Coffee,Dirty Chai,Regular,85
+Pickup Coffee,Spanish Latte,Regular,85
+Pickup Coffee,Nutellatte,Regular,85
+Zus Coffee,Americano,Regular,55
+Zus Coffee,Caffè Latte,Regular,65
+Zus Coffee,Caramel Latte,Regular,75
+Zus Coffee,Spanish Latte,Regular,75
+Zus Coffee,Cappuccino,Regular,65
+Zus Coffee,Matcha Latte,Regular,80
+Zus Coffee,Ube Latte,Regular,75
+Zus Coffee,Chocolate,Regular,70
+Bo's Coffee,Americano,Regular,90
+Bo's Coffee,Caffè Latte,Regular,120
+Bo's Coffee,Caramel Latte,Regular,135
+Bo's Coffee,Spanish Latte,Regular,130
+Bo's Coffee,Cappuccino,Regular,120
+Bo's Coffee,Mocha,Regular,135
+Bo's Coffee,Matcha Latte,Regular,140
+Coffee Bean & Tea Leaf,Americano,Regular,140
+Coffee Bean & Tea Leaf,Caffè Latte,Regular,165
+Coffee Bean & Tea Leaf,Caramel Latte,Regular,180
+Coffee Bean & Tea Leaf,Ice Blended Mocha,Regular,195
+Coffee Bean & Tea Leaf,Matcha Latte,Regular,175
+Coffee Bean & Tea Leaf,Cold Brew,Regular,170
+Coffee Bean & Tea Leaf,Signature Hot Chocolate,Regular,170
+Tim Hortons,Original Blend Coffee,Medium,85
+Tim Hortons,Latte,Medium,120
+Tim Hortons,Cappuccino,Medium,115
+Tim Hortons,French Vanilla,Medium,120
+Tim Hortons,Iced Capp,Medium,135
+Tim Hortons,Hot Chocolate,Medium,110
+J.CO Donuts & Coffee,Jcoccino,Small,150
+J.CO Donuts & Coffee,Americano,Small,120
+J.CO Donuts & Coffee,Cafe Latte,Small,156
+J.CO Donuts & Coffee,Caramel Jcoccino,Small,156
+J.CO Donuts & Coffee,Mocha Espresso,Small,156
+Figaro Coffee,Americano,Regular,120
+Figaro Coffee,Caffè Latte,Regular,145
+Figaro Coffee,Caramel Latte,Regular,155
+Figaro Coffee,Spanish Latte,Regular,155
+Figaro Coffee,Mocha,Regular,150

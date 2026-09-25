@@ -1,5 +1,8 @@
 # ☕ Philippine Coffee Shop Market Intelligence Dashboard
 
+[![Status: Live](https://img.shields.io/badge/status-live-22c55e.svg)](https://github.com/agenticph-labs/p2-ph-market-intelligence)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 An interactive market intelligence dashboard analyzing the Philippine coffee shop industry. Built with Python (pandas, plotly, Streamlit) as part of the agenticPH Labs portfolio.
 
 ## 📊 Dashboard Features
@@ -90,4 +93,4 @@ MIT — See [LICENSE](LICENSE)
 
 ## 👤 Author
 
-**agenticPH Labs** — Portfolio Project 2
+**agenticPH Labs** — [Portfolio Project 2](https://agenticph-labs.github.io/portfolio)
